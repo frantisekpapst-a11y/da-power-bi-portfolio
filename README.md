@@ -1,4 +1,4 @@
-# 📊 Power BI & Business Intelligence Portfolio
+# 📊 Data Analytics Power BI Portfolio
 
 Portfolio projektů zaměřených na **Power BI, Power Query, DAX, datové modelování a Business Intelligence reporting**.
 
@@ -22,7 +22,7 @@ Hlavní oblasti:
 ## 📂 Struktura repozitáře
 
 ```text
-power-bi-portfolio/
+da-power-bi-portfolio/
 │
 ├── pbi-case-studies/
 │   ├── case-study-1/
